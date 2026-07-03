@@ -16,7 +16,10 @@ el sensor acelerómetro del dispositivo.
 
 | Inicio | Juego | Game Over |
 |---|---|---|
-| Título, subtítulo y botón "Jugar" | Bolita moviéndose entre obstáculos, con puntaje y coordenadas en pantalla | Diálogo con el puntaje final y botón para reiniciar |
+|<img width="801" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d8a86e0-43ec-4c41-96cb-0e26864fbe11" />
+ | <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/2effd2ce-9ff8-44a8-969d-40ce48aef044" />
+ |  <img width="759" height="1600" alt="image" src="https://github.com/user-attachments/assets/1bbf8d32-1857-408a-beb5-fada42bcf85e" />
+|
 
 *(Agrega aquí tus propias capturas de pantalla ejecutando la app en un
 emulador o dispositivo físico.)*
