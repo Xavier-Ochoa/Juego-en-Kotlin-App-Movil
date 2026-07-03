@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravity Ball</string>
+
+    <!-- Pantalla de inicio -->
+    <string name="home_title">Gravity Ball</string>
+    <string name="home_subtitle">Inclina tu dispositivo para mover la bolita</string>
+    <string name="btn_play">Jugar</string>
+
+    <!-- Pantalla del juego -->
+    <string name="instructions">Inclina el celular para moverte y evita los obstáculos</string>
+    <string name="btn_change_color">Color</string>
+    <string name="btn_increase_size">Tamaño +</string>
+    <string name="btn_decrease_size">Tamaño -</string>
+
+    <!-- Game Over -->
+    <string name="game_over_title">GAME OVER</string>
+    <string name="btn_restart">Jugar de nuevo</string>
+</resources>
