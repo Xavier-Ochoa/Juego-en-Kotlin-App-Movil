@@ -35,8 +35,6 @@ el sensor acelerómetro del dispositivo.
   </tr>
 </table>
 
-*(Agrega aquí tus propias capturas de pantalla ejecutando la app en un
-emulador o dispositivo físico.)*
 
 ---
 
