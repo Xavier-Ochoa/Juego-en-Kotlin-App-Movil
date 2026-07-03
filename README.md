@@ -14,12 +14,26 @@ el sensor acelerómetro del dispositivo.
 
 ## 📱 Capturas
 
-| Inicio | Juego | Game Over |
-|---|---|---|
-|<img width="801" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d8a86e0-43ec-4c41-96cb-0e26864fbe11" />
- | <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/2effd2ce-9ff8-44a8-969d-40ce48aef044" />
- |  <img width="759" height="1600" alt="image" src="https://github.com/user-attachments/assets/1bbf8d32-1857-408a-beb5-fada42bcf85e" />
-|
+## Capturas de pantalla
+
+<table align="center">
+  <tr>
+    <th>Inicio</th>
+    <th>Juego</th>
+    <th>Game Over</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9d8a86e0-43ec-4c41-96cb-0e26864fbe11" width="220"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2effd2ce-9ff8-44a8-969d-40ce48aef044" width="220"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1bbf8d32-1857-408a-beb5-fada42bcf85e" width="220"/>
+    </td>
+  </tr>
+</table>
 
 *(Agrega aquí tus propias capturas de pantalla ejecutando la app en un
 emulador o dispositivo físico.)*
